@@ -1,2 +1,4 @@
 # clicker-test
 click
+
+okbye
